@@ -2,14 +2,14 @@
  
 #define SECRET
  
-const char WIFI_SSID[] = "THANOSkibeti";               
-const char WIFI_PASSWORD[] = "Stark111@@";           
+const char WIFI_SSID[] = "******";               
+const char WIFI_PASSWORD[] = "******";           
  
 #define THINGNAME "AWS_DHT_11"
  
 int8_t TIME_ZONE = -5; //NYC(USA): -5 UTC
  
-const char MQTT_HOST[] = "a5spxr4m3sgkl-ats.iot.us-east-1.amazonaws.com";
+const char MQTT_HOST[] = "aspx4m3sgkl-ats.iot.us-east-1.amazonaws.com";
  
  
 static const char cacert[] PROGMEM = R"EOF(
